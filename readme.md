@@ -2,6 +2,7 @@
 
 Este proyecto es una aplicación web simple para organizar sorteos del "Amigo Secreto". Fue desarrollado como parte del Challenge de Lógica de Programación de Alura Latam y Oracle Next Education (ONE).
 
+Checa el link del resultado: https://charlie-rk-6.github.io/challenge-amigo-secreto-one9/
 ## Funcionalidades
 
 - **Añadir participantes**: Puedes escribir nombres en un campo de texto y agregarlos a una lista.
